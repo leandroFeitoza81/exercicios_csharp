@@ -1,0 +1,16 @@
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.csprojAssemblyReference.cache
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.AssemblyInfoInputs.cache
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.AssemblyInfo.cs
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.csproj.CoreCompileInputs.cache
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/bin/Debug/net5.0/combinando-loops-ifs
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/bin/Debug/net5.0/combinando-loops-ifs.deps.json
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/bin/Debug/net5.0/combinando-loops-ifs.runtimeconfig.json
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/bin/Debug/net5.0/combinando-loops-ifs.runtimeconfig.dev.json
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/bin/Debug/net5.0/combinando-loops-ifs.dll
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/bin/Debug/net5.0/ref/combinando-loops-ifs.dll
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/bin/Debug/net5.0/combinando-loops-ifs.pdb
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.dll
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/ref/combinando-loops-ifs.dll
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.pdb
+/home/leandro/C#/exercicios_csharp/combinando-loops-ifs/obj/Debug/net5.0/combinando-loops-ifs.genruntimeconfig.cache
